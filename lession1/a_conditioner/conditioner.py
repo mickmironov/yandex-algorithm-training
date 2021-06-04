@@ -16,7 +16,7 @@ def conditioner():
     elif mode == "fan":
         print(troom)
     else:
-        print("wrond mode")
+        print("wrong mode")
 
 if __name__ == '__main__':
     conditioner()
